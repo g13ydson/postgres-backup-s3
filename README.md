@@ -1,6 +1,10 @@
-# Noteo
+# Note
 
 This project is based on [eeshugerman's PostgreSQL backup container](https://github.com/eeshugerman/postgres-backup-s3). Since it's archived, I've forked this to support recent PostgreSQL versions.
+
+You can get the image from here:
+
+https://hub.docker.com/r/ardakilic/postgres-backup-s3
 
 --------
 
